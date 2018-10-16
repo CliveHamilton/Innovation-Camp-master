@@ -40,5 +40,7 @@
 <classpathentry combineaccessrules="false" kind="src" path="/customerticketingaddon"/>
 <classpathentry combineaccessrules="false" kind="src" path="/orderselfserviceaddon"/>
 <classpathentry combineaccessrules="false" kind="src" path="/adaptivesearchsamplesaddon"/>
+<classpathentry combineaccessrules="false" kind="src" path="/gigyalogin"/>
+<classpathentry combineaccessrules="false" kind="src" path="/gigyacommon"/>
 				
 </classpath>

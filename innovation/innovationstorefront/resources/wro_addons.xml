@@ -2,6 +2,11 @@
 
 <groups xmlns="http://www.isdc.ro/wro" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isdc.ro/wro wro.xsd">
    <group name="addons_responsive">
+      <js>/_ui/addons/gigyacommon/responsive/common/js/gigyacommon.js</js>
+      <css>/_ui/addons/gigyacommon/responsive/common/css/gigyacommon.css</css>
+      <js>/_ui/addons/gigyalogin/responsive/common/js/gigyalogin.js</js>
+      <js>/_ui/addons/gigyalogin/responsive/common/js/gigyaGenericPlugin.js</js>
+      <css>/_ui/addons/gigyalogin/responsive/common/css/gigyalogin.css</css>
       <css>/_ui/addons/liveeditaddon/responsive/common/css/liveeditaddon.css</css>
       <js>/_ui/addons/assistedservicepromotionaddon/responsive/common/js/assistedservicepromotionaddon.js</js>
       <css>/_ui/addons/assistedservicepromotionaddon/responsive/common/css/assistedservicepromotionaddon.css</css>

@@ -57,6 +57,8 @@
     <extension name='innovationinitialdata' />
     <extension name='innovationtest' />
     <extension name='innovationcockpits' />
-    <extension name='innovationfulfilmentprocess' />   
+    <extension name='innovationfulfilmentprocess' />
+    <extension name='gigyalogin' />
+    <extension name='gigyacommon' />
   </extensions>
 </hybrisconfig>

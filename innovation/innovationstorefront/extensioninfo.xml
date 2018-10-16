@@ -11,7 +11,9 @@
 --><extensioninfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="extensioninfo.xsd">
 
 	<extension abstractclassprefix="Generated" classprefix="InnovationStorefront" name="innovationstorefront" usemaven="false">		
-        <requires-extension name="adaptivesearchsamplesaddon"/>
+        <requires-extension name="gigyacommon"/>
+<requires-extension name="gigyalogin"/>
+<requires-extension name="adaptivesearchsamplesaddon"/>
 <requires-extension name="orderselfserviceaddon"/>
 <requires-extension name="customerticketingaddon"/>
 <requires-extension name="assistedservicepromotionaddon"/>
